@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1621883745",layout:"default",error:a,state:{drawer:{drawer:false}},serverRendered:true,routePath:"\u002Fart-gallery\u002Fcake_shop",config:{app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"656e9d46"}}}}(null));
