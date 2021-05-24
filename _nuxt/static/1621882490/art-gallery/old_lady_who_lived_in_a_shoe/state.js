@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1621882490",layout:"default",error:a,state:{drawer:{drawer:false}},serverRendered:true,routePath:"\u002Fart-gallery\u002Fold_lady_who_lived_in_a_shoe",config:{app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"36fe532b"}}}}(null));
